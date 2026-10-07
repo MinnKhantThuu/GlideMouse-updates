@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>GlideMouse Updates</title>
-    <link>https://github.com/MinnKhantThuu/GlideMouse-updates</link>
-    <description>Signed and notarized GlideMouse updates. No automatic update release is available yet.</description>
-    <language>en</language>
-  </channel>
-</rss>
+<channel><title>GlideMouse Update Verification</title><language>en</language><item>
+<title>GlideMouse 0.3.19</title><pubDate>Wed, 07 Oct 2026 13:16:06 GMT</pubDate>
+<sparkle:version>23</sparkle:version><sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description>Signed and notarized GlideMouse update.</description>
+<enclosure url="https://github.com/MinnKhantThuu/GlideMouse/releases/download/v0.3.19/GlideMouse-0.3.19.zip" sparkle:edSignature="6yzixNdo1GabSxBVIbma60vCRK1ka9cXv1g4YfiVKD5V350uSuqimBtIcE4FRpIbPRLjm4rrBQBuDSxZV3OrDg==" length="8250132" type="application/octet-stream"/>
+</item></channel></rss>
